@@ -37,7 +37,7 @@
       "description": "Master the drums with our comprehensive course covering all skill levels.",
       "price": 129.99,
       "instructor": "Mike Brown",
-      "isFeatured": false,
+      "isFeatured": true,
       "image": "/courses/drumming.jpg"
     },
     {
