@@ -1,4 +1,5 @@
 ## Melody Flow
+A landing page for an immersive music course website built using Next.js, TypeScript and Tailwind CSS. Designed to provide a seamless, responsive, and mobile-friendly experience.
 
 ## Getting Started
 
