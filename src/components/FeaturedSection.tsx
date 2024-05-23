@@ -39,7 +39,7 @@ function FeaturedSection() {
                   <p className=" mt-8  text-md text-neutral-600 dark:text-neutral-400 flex-grow">
                     {course.description}
                   </p>
-                  <Link className=" mt-5" href={`/courses/${course.slug}`}>
+                  <Link className=" mt-5" href={`/`}>
                     Learn More
                   </Link>
                 </div>
