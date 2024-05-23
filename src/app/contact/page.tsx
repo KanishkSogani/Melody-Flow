@@ -5,7 +5,7 @@ import { AuroraBackground } from "../../components/ui/aurora-background";
 function page() {
   return (
     <AuroraBackground>
-      <div className=" z-10 flex flex-col justify-center items-center mx-8 ">
+      <div className=" h-[100vh] z-10 flex flex-col justify-center items-center mx-8 ">
         <div>
           <h1 className="text-3xl md:text-5xl font-bold dark:text-white text-center">
             Contact Us

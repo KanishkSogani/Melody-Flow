@@ -49,7 +49,7 @@ function FeaturedSection() {
         </div>
       </div>
       <div className=" mt-20 text-center">
-        <Link href={"/courses"}>
+        <Link href={"/"}>
           <button className="inline-flex items-center justify-center px-3 py-3 text-base font-medium text-center text-indigo-100 border border-indigo-500 rounded-lg shadow-sm cursor-pointer hover:text-white bg-gradient-to-br from-purple-500 via-indigo-500 to-indigo-500">
             View All Courses
           </button>
