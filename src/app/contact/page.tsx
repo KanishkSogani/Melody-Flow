@@ -17,7 +17,7 @@ function page() {
           </p>
         </div>
         <div className="z-10 md:mt-4 md:pt-4   ">
-          <form action="/" onSubmit={(e) => e.preventDefault()}>
+          <form action="/contact">
             <div className="textInputWrapper min-w-[20rem] md:min-w-[35rem]">
               <input
                 type="email"
