@@ -24,7 +24,7 @@ function HeroSection() {
             <Button
               onClick={() => {
                 const element = document.getElementById("feature");
-                element.scrollIntoView({ behavior: "smooth" });
+                element?.scrollIntoView({ behavior: "smooth" });
               }}
               borderRadius="1.75rem"
               className="bg-white dark:bg-slate-900 text-black dark:text-white border-neutral-200 dark:border-slate-800"
